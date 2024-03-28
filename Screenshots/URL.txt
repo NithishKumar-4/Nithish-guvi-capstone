@@ -1,5 +1,0 @@
-Git Hub URL : https://github.com/NithishKumar-4/Nithish-guvi-capstone.git
-
-Deployed Site URL : http://65.2.137.159:8080
-
-Docker image name : prj1
